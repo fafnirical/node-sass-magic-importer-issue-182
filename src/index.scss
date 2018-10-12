@@ -1,0 +1,5 @@
+// This doesn't work.
+@import '~@glidejs/glide/src/assets/sass/glide.core';
+
+// This does.
+@import 'node_modules/@glidejs/glide/src/assets/sass/glide.core';

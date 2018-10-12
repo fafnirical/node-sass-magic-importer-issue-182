@@ -1,0 +1,16 @@
+{
+  "name": "node-sass-magic-importer-issue-182",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1",
+    "node-sass-magic-importer": "^5.2.0"
+  }
+}
