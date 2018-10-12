@@ -1,4 +1,4 @@
-# Reproduction repository for maoberlehner/node-sass-magic-importer#182
+# Reproduction repository for [node-sass-magic-importer#182](https://github.com/maoberlehner/node-sass-magic-importer/issues/182)
 
 ## Reproduction steps
 
